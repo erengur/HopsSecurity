@@ -3,7 +3,7 @@
 Bu repository, HOPS iOS uygulamasının gizlilik politikasını barındırır.
 
 ## 🔗 Canlı Site
-**URL:** https://erengur.github.io/hops-privacy
+**URL:** https://erengur.github.io/HopsSecurity/
 
 ## 📱 Uygulama Hakkında
 HOPS, operatörlerin puantaj girişi yapması için geliştirilmiş bir iOS uygulamasıdır.
